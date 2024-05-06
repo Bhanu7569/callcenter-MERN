@@ -1,0 +1,47 @@
+/* Account.css */
+
+.account-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    max-width: 500px;
+    background-color: #f9f9f9;
+  }
+  
+  .account-title {
+    color: #333;
+    text-align: center;
+  }
+  
+  .contact-form {
+    margin-bottom: 20px;
+  }
+  
+  .contact-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .contact-form input {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .contact-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .contact-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-list li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
